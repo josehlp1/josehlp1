@@ -1,4 +1,4 @@
-## Oiii eu sou o José, programador Full-Stack!
+## Bem-vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/josehlp1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josehlp1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
