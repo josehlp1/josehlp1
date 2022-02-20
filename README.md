@@ -12,7 +12,7 @@
   <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jose-JAVA" height="30" width="40" src="https://icongr.am/devicon/java-original.svg">
   <img align="center" alt="Jose-PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg">
-  <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938037803315507234/938037927680811039/pikachu.png">
+  <img align="right" alt="Jose-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938037803315507234/944785157473308732/profile_meta.png">
 </div>
   
   ## 
